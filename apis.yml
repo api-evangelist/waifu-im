@@ -1,0 +1,32 @@
+aid: waifu-im
+name: Waifu.im
+description: "Get waifu pictures from an archive of over 4000 images and multiple tags"
+url: https://waifu.im/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anime"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anime
+  - Public APIs
+apis:
+  - name: Waifu.im
+    description: "Get waifu pictures from an archive of over 4000 images and multiple tags"
+    humanURL: https://waifu.im/docs
+    baseURL: https://waifu.im/docs
+    tags:
+      - Anime
+    properties:
+      - type: Documentation
+        url: https://waifu.im/docs
+common:
+  - type: Website
+    url: https://waifu.im/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
