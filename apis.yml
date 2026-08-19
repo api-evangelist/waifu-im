@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/waifu-im.p
 name: Waifu.im
 description: "Get waifu pictures from an archive of over 4000 images and multiple tags"
 url: https://waifu.im/docs
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
