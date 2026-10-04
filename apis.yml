@@ -39,7 +39,6 @@ apis:
   - name: Waifu.im
     description: "Get waifu pictures from an archive of over 4000 images and multiple tags"
     humanURL: https://waifu.im/docs
-    baseURL: https://waifu.im/docs
     tags:
       - Anime
     properties:
